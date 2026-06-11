@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # IPL Performance Intelligence Dashboard | 2008–2024
 
 An end-to-end data analytics project on 17 years of IPL data — covering data cleaning, feature engineering, exploratory data analysis, hypothesis testing, SQL analytics, and a 3-page interactive Power BI dashboard.
