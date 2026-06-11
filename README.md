@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # IPL Performance Intelligence Dashboard | 2008–2024
 
@@ -254,3 +255,7 @@ Death overs have the highest run rate AND cheapest wickets — making death bowl
 
 
 
+=======
+# ipl-performance-analytics
+End-to-end IPL data analytics project — cleaning, EDA, SQL, Power BI, Python | 2008–2024
+>>>>>>> f9986560686208c8d9c0b9076d9b5c5a5da71fe0
