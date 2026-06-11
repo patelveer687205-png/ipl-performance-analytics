@@ -1,0 +1,56 @@
+# ==========================================
+# RAW DATA FILES (too large for GitHub)
+# Download from Kaggle instead
+# ==========================================
+data/matches.csv
+data/deliveries.csv
+
+# ==========================================
+# INTERMEDIATE / GENERATED DATA FILES
+# These are produced by running the notebooks
+# ==========================================
+data/matches_clean.csv
+data/deliveries_clean.csv
+data/deliveries_featured.csv
+data/batsman_match_stats.csv
+data/bowler_match_stats.csv
+data/phase_summary.csv
+
+# ==========================================
+# JUPYTER NOTEBOOK CHECKPOINTS
+# ==========================================
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# ==========================================
+# PYTHON CACHE
+# ==========================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ==========================================
+# VIRTUAL ENVIRONMENT (if you created one)
+# ==========================================
+venv/
+env/
+.env
+
+# ==========================================
+# POWER BI TEMP FILES
+# ==========================================
+*.pbix.bak
+*.pbix.lock
+
+# ==========================================
+# WINDOWS SYSTEM FILES
+# ==========================================
+Thumbs.db
+Desktop.ini
+
+# ==========================================
+# VS CODE SETTINGS (optional — remove if
+# you want to share your editor settings)
+# ==========================================
+.vscode/
